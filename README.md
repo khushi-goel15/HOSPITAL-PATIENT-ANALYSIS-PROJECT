@@ -129,7 +129,6 @@ This project demonstrates SQL skills through comprehensive hospital operations a
 
 ---
 
-**Project by:** [Your Name]
-**Date:** [Date]
+**Project by:** Khushi Goel
+**Date:** 10/09/26
 **Database:** MySQL 8.0+
-"# ddd" 
